@@ -1,0 +1,346 @@
+[
+    {
+        "company": "Tata Sons Private Limited",
+        "Founder": "Jamshedji Tata",
+        "email": "tatasustainabilitygroup@tata.com",
+        "phone": "\"+91 22 6665 8282\"",
+        "location": "Mumbai",
+        "amount": 68.0
+    },
+    {
+        "company": "wipro",
+        "Founder": "M.H Hasham Premji",
+        "email": "wipro.foundation@wipro.com",
+        "phone": "\"+91 (80) 28440011\"",
+        "location": "Bengaluru",
+        "amount": 215.7
+    },
+    {
+        "company": "infoys",
+        "Founder": "N.R Narayan Murthyaskus@infosys.com",
+        "email": "foundation@infosys.com",
+        "phone": "\"+91 80 2852 1705\"",
+        "location": "Bengaluru",
+        "amount": 391.51
+    },
+    {
+        "company": "Tata Consultancy Services",
+        "Founder": "Faquir chand kholi/ J.R.D",
+        "email": "pradipta.bagchi@tcs.com",
+        "phone": "\"+91-22-6778 9999\"",
+        "location": "Mumbai",
+        "amount": 774.4
+    },
+    {
+        "company": "Oil and Natural Gas Corporation",
+        "Founder": "Government of India",
+        "email": "csr@ongc.co.in ",
+        "phone": "011-26750998",
+        "location": "New Delhi",
+        "amount": 453.6
+    },
+    {
+        "company": "ITC",
+        "Founder": "Imperial Tobacco Company of India Limited",
+        "email": "sustainability@ntpc.co.in",
+        "phone": "(+91) 120  4946611 ",
+        "location": "Kolkata",
+        "amount": 322.6
+    },
+    {
+        "company": "Nationl Thermal Power Corporation",
+        "Founder": "Government of India",
+        "email": "ntpccc@ntpc.co.in",
+        "phone": "\"+91 11 24360100, 24387000, 24387001. \"",
+        "location": "New Delhi",
+        "amount": 319.9
+    },
+    {
+        "company": "Bharat Petroleum Corporation Limited",
+        "Founder": "Burmah shell",
+        "email": "bpclcsr@bharatpetroleum.in",
+        "phone": null,
+        "location": "Mumbai",
+        "amount": 144.88
+    },
+    {
+        "company": "UPL Limited ",
+        "Founder": "Rajju shroff",
+        "email": "csr@upl-ltd.com",
+        "phone": "\"+91-22-6856 8000\"",
+        "location": "Mumbai",
+        "amount": 99.6
+    },
+    {
+        "company": "Coal India Limited",
+        "Founder": "Government of india",
+        "email": "samadhan.cil@coalindia.in",
+        "phone": null,
+        "location": "Kolkata",
+        "amount": 95.0
+    },
+    {
+        "company": "Indusland Bank Limited",
+        "Founder": "S. P Hiduja",
+        "email": "sattvam@indusind.com",
+        "phone": "022 - 6106 9200",
+        "location": "Mumbai",
+        "amount": 94.0
+    },
+    {
+        "company": "Mahindra & Mahindra Limited",
+        "Founder": "J. C. Mahindra, K. C. Mahindra, Malik Ghulam Muhammad\"",
+        "email": "csr@mahindra.com",
+        "phone": null,
+        "location": "Mumbai",
+        "amount": 92.78
+    },
+    {
+        "company": "Zydus Wellness Limited",
+        "Founder": "Carnation Nutra-Analogue Foods Limited",
+        "email": "investor.grievance@zyduswellness.com",
+        "phone": "079-48040000 or 079-71800000. ",
+        "location": "Ahmedabad",
+        "amount": 92.0
+    },
+    {
+        "company": "Axis Bank Limited",
+        "Founder": "Amitabh Chaudhry",
+        "email": "sustainability@axisbank.com",
+        "phone": null,
+        "location": "Mumbai",
+        "amount": 90.9
+    },
+    {
+        "company": "Grasim Industries Limited",
+        "Founder": "G.D Birla",
+        "email": "rabindra.k.mohanty@adityabirla.com",
+        "phone": "\"+91 910 009 4099\"",
+        "location": "Mumbai",
+        "amount": 84.67
+    },
+    {
+        "company": "Kotak Mahindra Bank Limited",
+        "Founder": "uday kotak",
+        "email": "csr@kotak.com",
+        "phone": null,
+        "location": "Mumbai",
+        "amount": 79.0
+    },
+    {
+        "company": "Cadila Healthcare Limited",
+        "Founder": "Ramanbhai Patel",
+        "email": "csr@zyduscadila.com",
+        "phone": "\"+91-079-71800000\"",
+        "location": "Ahmedabad",
+        "amount": 78.54
+    },
+    {
+        "company": "JSW steel Limited ",
+        "Founder": "Sajjn Jindal",
+        "email": "prabodha.acharya@jsw.in",
+        "phone": "\"+91 22 4286 1000\"",
+        "location": "Mumbai",
+        "amount": 78.0
+    },
+    {
+        "company": "Indiabulls Housing Finullce Limited",
+        "Founder": "Sameer Gehlaut",
+        "email": "cs.iwsl@indiabulls.com",
+        "phone": "0124-4109501",
+        "location": "Gurugram",
+        "amount": 77.0
+    },
+    {
+        "company": "Adani Port and Special Economic Zone Limited",
+        "Founder": "Gautam Adani",
+        "email": "csr@adani.com",
+        "phone": "\"+91-79-26565555\"",
+        "location": "Ahmedabad",
+        "amount": 73.0
+    },
+    {
+        "company": "Aurobindo Pharam Limited",
+        "Founder": "P. V. Ramprasad Reddy",
+        "email": "cs@aurobindo.com",
+        "phone": "\"+91 40 6672 533\"",
+        "location": "Hyderabad",
+        "amount": 58.8
+    },
+    {
+        "company": "Central Coalfields Limited",
+        "Founder": "Government of India",
+        "email": "gmsdncsr.ccl@coalindia.in",
+        "phone": "9430196207",
+        "location": "Ranchi",
+        "amount": 56.0
+    },
+    {
+        "company": "Muthoot Finullce Limited",
+        "Founder": "M. G. George Muthoot",
+        "email": "csr@muthootfinullce.com",
+        "phone": "0484 6690599",
+        "location": "Kochi",
+        "amount": 54.0
+    },
+    {
+        "company": "Sun pharmacetutical industries Ltd.",
+        "Founder": "Dilip Shanghvi",
+        "email": "anoop.deshpande@sunpharma.com",
+        "phone": "\"+91-22-4324 4324\"",
+        "location": "Mumbai",
+        "amount": 19.86
+    },
+    {
+        "company": "pidilite Industries Limited",
+        "Founder": "Balvant Parekh",
+        "email": "csc@pidilite.com",
+        "phone": "\"+917718871208\"",
+        "location": "Mumbai",
+        "amount": 25.37
+    },
+    {
+        "company": "Vedanta Limited",
+        "Founder": "Anil Agarwal",
+        "email": "esg@vedanta.co.in",
+        "phone": "\"+91 294 660 4054\"",
+        "location": "Bengaluru",
+        "amount": 37.5
+    },
+    {
+        "company": "Britannia Industries Limited ",
+        "Founder": "gupta family",
+        "email": "investorrelations@britindia.com",
+        "phone": "8037687218",
+        "location": "Mumbai",
+        "amount": 38.57
+    },
+    {
+        "company": "Hindalco Industries Ltd",
+        "Founder": "Aditya",
+        "email": "hilinvestors@adityabirla.com",
+        "phone": "\"+91 22 6947 7000\"",
+        "location": "Gurugram",
+        "amount": 37.55
+    },
+    {
+        "company": "Indusind Bank Ltd.",
+        "Founder": "S. P. Hinduja",
+        "email": "sattvam@indusind.com",
+        "phone": "022 - 6106 9200",
+        "location": "Mumbai",
+        "amount": 15.9
+    },
+    {
+        "company": "Bank of Baroda ",
+        "Founder": "Government of India",
+        "email": "csr.bcc@bankofbaroda.com",
+        "phone": null,
+        "location": "Gurugram",
+        "amount": 8.29
+    },
+    {
+        "company": "Cipla Limited",
+        "Founder": "Khwaja Abdul Hamied",
+        "email": "csr@cipla.com",
+        "phone": "022-23025999",
+        "location": "Ahmedabad",
+        "amount": 53.25
+    },
+    {
+        "company": "Adani Wilmar Limited",
+        "Founder": "Gautam Adani",
+        "email": "csr@adaniwilmar.in",
+        "phone": "\"+91 79 2645 5650. \"",
+        "location": "Bengaluru",
+        "amount": 12.94
+    },
+    {
+        "company": "Havells India Limited",
+        "Founder": "oimat Rai Gupta",
+        "email": "csr@havells.com ",
+        "phone": "8045771777",
+        "location": "Pune",
+        "amount": 22.88
+    },
+    {
+        "company": "Bosch Ltd",
+        "Founder": "Robert Bosch Stiftung GmbH",
+        "email": "csr@in.bosch.com",
+        "phone": "\"+91 80 22 22 00 88 \"",
+        "location": "Mumbai",
+        "amount": 22.469
+    },
+    {
+        "company": "Ashok Leyland Ltd",
+        "Founder": "Raghunulldan Saran",
+        "email": "csr@ashokleyland.com",
+        "phone": "\"+91-44-2220 6815. \"",
+        "location": "New Delhi",
+        "amount": 52.0
+    },
+    {
+        "company": "Oberoi Reality",
+        "Founder": "Ranvir Oberoi",
+        "email": "csr@oberoirealty.com",
+        "phone": "\"+91 22 6677 3333.\"",
+        "location": "New Delhi",
+        "amount": 30.0
+    },
+    {
+        "company": "BHEL",
+        "Founder": "Government of India",
+        "email": "csr@bhel.in",
+        "phone": null,
+        "location": "Pune",
+        "amount": 52.0
+    },
+    {
+        "company": "GMR",
+        "Founder": "Grandhi Mallikarjuna Rao",
+        "email": "csr@gmrgroup.in",
+        "phone": "\" +91 11 4253 2600\"",
+        "location": "Hyderabad",
+        "amount": 45.0
+    },
+    {
+        "company": "Suzlon Energy",
+        "Founder": "Tulsi Tanti",
+        "email": "csr@suzlon.com",
+        "phone": "\"+91-20-67022261\"",
+        "location": "Noida",
+        "amount": 28.0
+    },
+    {
+        "company": "Glenmark Pharmaceuticals",
+        "Founder": "Gracias saldanull",
+        "email": "csr@glenmarkpharma.com",
+        "phone": "\"+91-22-40189999\"",
+        "location": "Mumbai",
+        "amount": 25.0
+    },
+    {
+        "company": "NIIT Technologies",
+        "Founder": "Rajendra S. Pawar and Vijay K. Thadani",
+        "email": "csr@niit.com",
+        "phone": "\"+91-124-4293000. \"",
+        "location": "Bengaluru",
+        "amount": 0.04
+    },
+    {
+        "company": "Sonata Software",
+        "Founder": "Samir Dhir",
+        "email": "csr@sonata-software.com",
+        "phone": "\"+91-22-2494 3055\"",
+        "location": "Bengaluru",
+        "amount": 0.03
+    },
+    {
+        "company": null,
+        "Founder": null,
+        "email": null,
+        "phone": null,
+        "location": null,
+        "amount": 130.0
+    }
+]
