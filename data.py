@@ -1,0 +1,6 @@
+data = {
+    "unified mentor":"charging registration fee",
+    "labmentix":"charging registration fee",
+
+
+}
